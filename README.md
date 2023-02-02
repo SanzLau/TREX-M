@@ -1,1 +1,1 @@
-# TREX-M
+# PROC18_LP_AM1
